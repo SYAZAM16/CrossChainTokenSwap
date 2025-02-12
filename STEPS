@@ -6,3 +6,5 @@ Polkadot’s Substrate (On Your Device)
 
 Add IBC Library to Ethereum Smart Contract-import "@ibc/core/IBCModule.sol";
 
+Under Environment, select Injected Provider - MetaMask. in Remix IDE
+
