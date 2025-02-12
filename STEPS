@@ -1,0 +1,8 @@
+Required Software-node.js,npm,git,rust
+
+Ethereum Smart Contract (Using Remix IDE)
+
+Polkadot’s Substrate (On Your Device)
+
+Add IBC Library to Ethereum Smart Contract-import "@ibc/core/IBCModule.sol";
+
